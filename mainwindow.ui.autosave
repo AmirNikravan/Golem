@@ -150,6 +150,13 @@
       </property>
      </spacer>
     </item>
+    <item alignment="Qt::AlignmentFlag::AlignHCenter">
+     <widget class="QToolButton" name="toolButton">
+      <property name="text">
+       <string>Start</string>
+      </property>
+     </widget>
+    </item>
    </layout>
   </widget>
   <widget class="QMenuBar" name="menubar">
